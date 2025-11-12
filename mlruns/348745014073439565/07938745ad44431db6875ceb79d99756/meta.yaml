@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/348745014073439565/07938745ad44431db6875ceb79d99756/artifacts
+end_time: 1762796546711
+entry_point_name: ''
+experiment_id: '348745014073439565'
+lifecycle_stage: active
+run_id: 07938745ad44431db6875ceb79d99756
+run_name: serious-whale-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762796525056
+status: 3
+tags: []
+user_id: joker

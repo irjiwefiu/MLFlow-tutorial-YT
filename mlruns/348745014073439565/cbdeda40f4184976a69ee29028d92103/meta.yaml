@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/348745014073439565/cbdeda40f4184976a69ee29028d92103/artifacts
+end_time: 1762796407793
+entry_point_name: ''
+experiment_id: '348745014073439565'
+lifecycle_stage: active
+run_id: cbdeda40f4184976a69ee29028d92103
+run_name: stately-sow-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762796405952
+status: 3
+tags: []
+user_id: joker

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/348745014073439565/7bf9bc0e77b2418caa0b71c130ff51cb/artifacts
+end_time: 1762795766509
+entry_point_name: ''
+experiment_id: '348745014073439565'
+lifecycle_stage: active
+run_id: 7bf9bc0e77b2418caa0b71c130ff51cb
+run_name: enthused-doe-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762795766032
+status: 3
+tags: []
+user_id: joker
